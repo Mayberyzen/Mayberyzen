@@ -2,10 +2,10 @@
 
 🚀 Cybersecurity Enthusiast | Ethical Hacker | Red Team Operator  
 
-🔹 Currently pursuing MCA in Cybersecurity & Digital Defence  
+🔹 Currently pursuing Masters in Cybersecurity & Digital Defence  
 🔹 Building offensive security projects like `Z3nHawk`, `MindHack`, `RogueWiFi`, and `DeepScavenger`  
 🔹 Passionate about Red Teaming, OSINT, and AI-powered cyber threats  
-🔹 Looking for my first bug in a bug bounty program  
+🔹 passionately following bug bounty program  
 
 ## 🛠️ Tech Stack
 🔹 Python | C++ | Bash | JavaScript  
