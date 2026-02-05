@@ -56,9 +56,9 @@
 
 ---
 
-## 📜 Certifications & Learning Path
+## 📜 Learning Path
 
-- 🎯 **OSCP** (In Progress)
+- 🎯 Network Seurity
 - 📚 Advanced Active Directory Attacks
 - 🦠 Malware Development & EDR Evasion
 - 🐛 Bug Bounty Hunting
