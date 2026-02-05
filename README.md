@@ -30,74 +30,116 @@ handle: ryzen_gg / Mayberyzen
 role: Cybersecurity Master's Student
 focus: Red Teaming & Offensive Security
 location: India
-🔴 Currently pursuing Masters in Cybersecurity & Digital Defence
-🎯 Specializing in Red Team Operations & Penetration Testing
-🛠️ Building offensive security tools and frameworks
-🐛 Active in bug bounty programs
-🎓 Learning: Cloud Security, Active Directory Exploitation, Malware Development
+
+<table>
+<tr>
+<td>
+🔴 Currently pursuing
+Masters in Cybersecurity & Digital Defence
+🎯 Specializing in
+Red Team Operations & Penetration Testing
+🛠️ Building
+Offensive security tools and frameworks
+</td>
+<td>
+🐛 Active in
+Bug bounty programs
+🎓 Learning
+Cloud Security, Active Directory Exploitation, Malware Development
+🌐 Based in
+India
+</td>
+</tr>
+</table>
 🛠️ Tech Stack
-Languages
+💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-Security Tools
+🛡️ Security Tools
 <p>
   <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
-Platforms & Frameworks
+📊 SIEM & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-3E8BFF?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+</p>
+🖥️ Platforms & DevOps
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-📦 Projects
-Z3nHawk
+📦 Featured Projects
+<div align="center">
+🔴 Z3nHawk
 Automated Reconnaissance & Pentest Framework
-Subdomain enumeration & cloud asset discovery
-Automated exploitation chaining
-Covert C2 infrastructure deployment
-Python OSINT Cloud Security Red Team
-Ph1sherman
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud_Security-4ECDC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Red_Team-FF4757?style=flat-square" />
+</p>
+Subdomain enumeration • Cloud asset discovery • Automated exploitation chaining • Covert C2 infrastructure
+🎣 Ph1sherman
 Automated Phishing & Malicious Webpage Detector
-Browser extension for phishing detection
-Email security analysis web platform
-Real-time threat intelligence integration
-JavaScript Web Security Phishing Threat Intel
-RogueWiFi
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web_Security-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phishing-FF7675?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threat_Intel-00B894?style=flat-square" />
+</p>
+Browser extension • Email security analysis • Real-time threat intelligence integration
+📡 RogueWiFi
 Rogue Access Point Attack Framework
-Enterprise wireless security testing
-Evil Twin & Karma attack automation
-Network pivoting capabilities
-Python Wireless Security Network Pentesting Hardware
-MindHack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireless_Security-A29BFE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network_Pentesting-74B9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardware-DFE6E9?style=flat-square" />
+</p>
+Enterprise wireless testing • Evil Twin & Karma attacks • Network pivoting
+🧠 MindHack
 Security Research Project
-Python Security Research
-DeepScavenger
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Research-FD79A8?style=flat-square" />
+</p>
+🔍 DeepScavenger
 OSINT & Intelligence Gathering Tool
-Python OSINT Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-FDCB6E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Analysis-55A3FF?style=flat-square" />
+</p>
+</div>
 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayberyzen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayberyzen&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
 🎯 Current Focus
-[ ] OSCP Certification
-[ ] Advanced Active Directory Attacks
-[ ] Cloud Security (AWS/Azure Pentesting)
-[ ] Malware Development & EDR Evasion
-[ ] Bug Bounty Hunting
+Table
+Copy
+Goal	Status
+OSCP Certification	🟡 In Progress
+Advanced Active Directory Attacks	🔴 Learning
+Cloud Security (AWS/Azure Pentesting)	🔴 Learning
+Malware Development & EDR Evasion	🔴 Learning
+Bug Bounty Hunting	🟢 Active
 🐛 Bug Bounty
-Active on:
-HackerOne
-Bugcrowd
-Intigriti
+<div align="center">
+Active on HackerOne • Bugcrowd • Intigriti
+</div>
 <div align="center">
 Let's Connect
 💼 LinkedIn • 📧 Email • 🐦 Twitter
