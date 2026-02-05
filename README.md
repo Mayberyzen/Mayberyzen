@@ -63,15 +63,7 @@
 - 🦠 Malware Development & EDR Evasion
 - 🐛 Bug Bounty Hunting
 
----
 
-## 📊 GitHub Stats
-
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayberyzen&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayberyzen&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 🤝 Connect With Me
 
