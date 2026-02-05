@@ -23,7 +23,7 @@
 ---
 
 ## 🎓 About Me
-
+<div>
 ```yaml
 name: Chetan Mahapatra
 handle: ryzen_gg / Mayberyzen
