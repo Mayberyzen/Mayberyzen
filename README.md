@@ -16,18 +16,18 @@
 - 🐛 Active in **bug bounty programs** (HackerOne, Bugcrowd, Intigriti)
 - 📚 Currently learning: **Application Security**, **Network Security**, **Active Directory Exploitation**, **Malware Development**
 
----
-
-## 🚀 Featured Projects
+**Projects**
+<div align="center">
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Z3nHawk** | Automated Recon & Pentest Framework | Python, OSINT, Cloud Security |
-| **Ph1sherman** | Phishing detector browser extension + email security platform | JavaScript, Web Security |
-| **SecOps** | Desktop-based SOC utility with real-time network visibility, risk-based connection analysis, and security tools through a unified GUI | Python, PyQt6, Network Security |
-| **Convctl** | Interactive CLI tool for converting documents, images, media files, and PDF operations with an intuitive menu-driven interface | Python, CLI, File Processing |
+|:-------:|:-----------:|:----------:|
+| **🦅 Z3nHawk** | Automated Recon & Pentest Framework | Python, OSINT, Cloud Security |
+| **🎣 Ph1sherman** | Phishing detector & email security platform | JavaScript, Web Security |
+| **🖥️ SecOps** | Desktop SOC utility with real-time network visibility | Python, PyQt6, Network Security |
+| **📂 Convctl** | Interactive CLI tool for file conversion & PDF ops | Python, CLI, File Processing |
 
----
+</div>
+
 
 ## 🛡️ Tech Stack
 
